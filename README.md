@@ -2,7 +2,7 @@
 <h3> < Hello world, I'm <a href="https://annujolly.netlify/" target="_blank"> Kanta Garg</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img  align='right' src="https://user-images.githubusercontent.com/43414928/113603231-5101d200-9661-11eb-9dcf-93d0401a7287.png" width="300px"> </h3>
 I am a pre-final year CS student with a great passion for programming. I am trying to create magic with 0's and 1's. The green dots on my GitHub profile show my developer journey. I have experimented with AI, NLP, IoT, ML etc but found my niche domain in full stack development primararily front-end development
 
-[![Linkedin Badge](https://img.shields.io/badge/-annu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kantagarg17/)](https://www.linkedin.com/in/kantagarg17/) [![Gmail Badge](https://img.shields.io/badge/-parathasarathijugnu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parathasarathijugnu@gmail.com)](mailto:parathasarathijugnu@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-kanta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kantagarg17/)](https://www.linkedin.com/in/kantagarg17/) [![Gmail Badge](https://img.shields.io/badge/-parathasarathijugnu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parathasarathijugnu@gmail.com)](mailto:parathasarathijugnu@gmail.com)
 <br/>
 
 ##### A little more about me...  
@@ -11,7 +11,7 @@ I am a pre-final year CS student with a great passion for programming. I am tryi
 const Kanta = {
   Pronouns: "she" | "her",
   Description : [Passionate, Optimistic, 
-                Bibliophile, Tech enthusiast, 
+                Bibliophile, Tech Enthusiast, 
                 Socialist, Nature Lover,   
                 and a lot more ],
   Education : 
@@ -39,7 +39,7 @@ const Kanta = {
 
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=annu12340&theme=radical&show_icons=true" alt="Kanta's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kanta12340&theme=radical&show_icons=true" alt="Kanta's Github Stats" />
 </p>
 
 
