@@ -39,7 +39,7 @@ const Kanta = {
 
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=kanta12340&theme=radical&show_icons=true" alt="Kanta's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kantagarg17&theme=radical&show_icons=true" alt="Kanta's Github Stats" />
 </p>
 
 
