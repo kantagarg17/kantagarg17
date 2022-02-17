@@ -1,6 +1,6 @@
 
-<h3> < Hello world, I'm <a href="https://annujolly.netlify/" target="_blank"> Kanta Garg</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img  align='right' src="https://cdn.dribbble.com/users/5448869/screenshots/11964344/media/7c1a55db92d1d015c51ad7595a2b82ff.png?compress=1&resize=400x300" width="300px"> </h3>
-I am a pre-final year CS student with a great passion for programming. I am trying to create magic with 0's and 1's. The green dots on my GitHub profile show my developer journey. I have experimented with AI, NLP, IoT, ML etc but found my niche domain in full stack development primararily front-end development
+<h3> < Hello world, I'm <a href="https://www.linkedin.com/in/kantagarg17/" target="_blank"> Kanta Garg</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img  align='right' src="https://cdn.dribbble.com/users/5448869/screenshots/11964344/media/7c1a55db92d1d015c51ad7595a2b82ff.png?compress=1&resize=400x300" width="300px"> </h3>
+I am a senior year CS student with a great passion for programming. I am trying to create magic with 0's and 1's. The green dots on my GitHub profile show my developer journey. I have experimented with AI, NLP, IoT, ML etc but found my niche domain in full stack development primararily front-end development
 
 [![Linkedin Badge](https://img.shields.io/badge/-kanta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kantagarg17/)](https://www.linkedin.com/in/kantagarg17/) [![Gmail Badge](https://img.shields.io/badge/-parathasarathijugnu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parathasarathijugnu@gmail.com)](mailto:parathasarathijugnu@gmail.com)
 <br/>
@@ -17,11 +17,13 @@ const Kanta = {
   Education : 
            [ 
            { Collge: Banasthali Vidyapith, 
-             Year :2018-2022  }, 
+             Year :2018-2022 }, 
            { School : Cambridge School Noida,  
               Year : 2004-2018 } 
            ],
  Experience : [' SWE Intern @ STMicroelectronics', 
+            'ST Intern @ Oracle',
+            'Graphic Designer @ PredictablyBeautiful'
             'Graphic Designer @ Infinite YOUth', 
             'Graphic Designer - Team Lead @ Aayam' ]
 }
