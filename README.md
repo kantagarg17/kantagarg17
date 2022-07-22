@@ -1,6 +1,12 @@
 
 <h3> < Hello world, I'm <a href="https://www.linkedin.com/in/kantagarg17/" target="_blank"> Kanta Garg</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img  align='right' src="https://cdn.dribbble.com/users/5448869/screenshots/11964344/media/7c1a55db92d1d015c51ad7595a2b82ff.png?compress=1&resize=400x300" width="300px"> </h3>
-I am a senior year CS student with a great passion for programming. I am trying to create magic with 0's and 1's. The green dots on my GitHub profile show my developer journey. I have experimented with AI, NLP, IoT, ML etc but found my niche domain in full stack development primararily front-end development
+A South-Asian American Comp Sci graduate.
+
+Ever since I was a little girl, I have been obsessed with technology, I love how it makes anything that comes to mind a reality! I believe in making technology fun, friendly and accessible to all. 
+
+Until now I have been working on super cool projects, collaborating with people around the world in fun hackathons, attending insightful seminars and webinars from the experts in the field, volunteering with professionals to make solutions that matter and doing practical courses because one can never learn enough. Interning at my dream MNC Oracle and STMicroelectronics gave me the chance to experience the corporate world and observe how these technologies can solve real-world problems from a different perspective where Oracle taught me the wonders of BI and Cloud and ST introduced me to IoT and BLE Mesh. I work on upskilling myself little by little every day by making learning an interesting and diverse process and keeping myself curious about the latest tools and technologies.
+
+Besides being a tech nerd, I have always been hungry for creativity and imagination. I started working as a graphic designer from the first year of my university and have never looked back since, in fact, I recently got promoted to be the team lead for the graphic design team! I had also interned with my organizations and NGOs as a graphic designer to better experience its practical and industrial applications. This experience introduced me to UX UI Design and I found my calling in it. I have been doing a lot of research and have self-taught myself the basics thanks to the excellent UX Design Course by Google that I have been following. It has been an enthralling experience and am looking forward to finding more exposure in this field. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-kanta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kantagarg17/)](https://www.linkedin.com/in/kantagarg17/) [![Gmail Badge](https://img.shields.io/badge/-parathasarathijugnu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parathasarathijugnu@gmail.com)](mailto:parathasarathijugnu@gmail.com)
 <br/>
@@ -18,7 +24,7 @@ const Kanta = {
            [ 
            { Collge: Banasthali Vidyapith, 
              Year :2018-2022 }, 
-           { School : Cambridge School Noida,  
+           { School : Cambridge School,  
               Year : 2004-2018 } 
            ],
  Experience : [' SWE Intern @ STMicroelectronics', 
