@@ -1,5 +1,6 @@
 
 <h3> < Hello world, I'm <a href="https://www.linkedin.com/in/kantagarg17/" target="_blank"> Kanta Garg</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img  align='right' src="https://cdn.dribbble.com/users/5448869/screenshots/11964344/media/7c1a55db92d1d015c51ad7595a2b82ff.png?compress=1&resize=400x300" width="300px"> </h3>
+  
 A South-Asian American Comp Sci graduate.
 
 Ever since I was a little girl, I have been obsessed with technology, I love how it makes anything that comes to mind a reality! I believe in making technology fun, friendly and accessible to all. 
