@@ -1,5 +1,5 @@
 
-<h3> < Hello world, I'm <a href="https://www.linkedin.com/in/kantagarg17/" target="_blank"> Kanta Garg</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img  align='right' src="https://cdn.dribbble.com/users/5448869/screenshots/11964344/media/7c1a55db92d1d015c51ad7595a2b82ff.png?compress=1&resize=400x300" width="300px"> </h3>
+<h3> < Hello world, I'm Kanta Garg <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img  align='right' src="https://cdn.dribbble.com/users/5448869/screenshots/11964344/media/7c1a55db92d1d015c51ad7595a2b82ff.png?compress=1&resize=400x300" width="300px"> </h3>
   
 A South-Asian American Comp Sci graduate.
 
@@ -15,22 +15,19 @@ Besides being a tech nerd, I have always been hungry for creativity and imaginat
 const Kanta = {
   Pronouns: "she" | "her",
   Description : [Passionate, Feminist, 
-                Bibliophile, Tech Enthusiast, 
-                Socialist, Nature Lover,   
-                and a lot more ],
-  Education : 
-           [ 
-           { Collge: Banasthali Vidyapith, 
-             Year :2018-2022 }, 
-           ],
+                 Bibliophile, Tech Enthusiast, 
+                 Socialist, Nature Lover,   
+                 and a lot more ],
+  Education : [ 
+               { Collge: Banasthali Vidyapith, 
+                 Year :2018-2022 }, ],
+             
  Experience : [' SWE Intern @ STMicroelectronics', 
-            'ST Intern @ Oracle',
-            'Graphic Designer @ PredictablyBeautiful'
-            'Graphic Designer @ Infinite YOUth', 
-            'Graphic Designer - Team Lead @ Aayam' ]
-}
-```
-
+               'ST Intern @ Oracle',
+               'Graphic Designer @ PredictablyBeautiful'
+               'Graphic Designer @ Infinite YOUth', 
+               'Graphic Designer - Team Lead @ Aayam' ] }
+               
 
 ### :computer: Languages that I speak
 * Front-end development :  React, Bootstrap, Figma, Canva, Wordpress, HTML, CS, Javascript, Flutter
