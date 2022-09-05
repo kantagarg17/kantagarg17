@@ -9,15 +9,12 @@ Until now I have been working on super cool projects, collaborating with people 
 
 Besides being a tech nerd, I have always been hungry for creativity and imagination. I started working as a graphic designer from the first year of my university and have never looked back since, in fact, I recently got promoted to be the team lead for the graphic design team! I had also interned with my organizations and NGOs as a graphic designer to better experience its practical and industrial applications. This experience introduced me to UX UI Design and I found my calling in it. I have been doing a lot of research and have self-taught myself the basics thanks to the excellent UX Design Course by Google that I have been following. It has been an enthralling experience and am looking forward to finding more exposure in this field. 
 
-[![Linkedin Badge](https://img.shields.io/badge/-kanta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kantagarg17/)](https://www.linkedin.com/in/kantagarg17/) [![Gmail Badge](https://img.shields.io/badge/-parathasarathijugnu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parathasarathijugnu@gmail.com)](mailto:parathasarathijugnu@gmail.com)
-<br/>
-
 ##### A little more about me...  
 
 ```javascript
 const Kanta = {
   Pronouns: "she" | "her",
-  Description : [Passionate, Optimistic, 
+  Description : [Passionate, Feminist, 
                 Bibliophile, Tech Enthusiast, 
                 Socialist, Nature Lover,   
                 and a lot more ],
@@ -25,8 +22,6 @@ const Kanta = {
            [ 
            { Collge: Banasthali Vidyapith, 
              Year :2018-2022 }, 
-           { School : Cambridge School,  
-              Year : 2004-2018 } 
            ],
  Experience : [' SWE Intern @ STMicroelectronics', 
             'ST Intern @ Oracle',
