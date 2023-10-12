@@ -24,7 +24,8 @@ const Kanta = {
                { Collge: Banasthali Vidyapith, Major : Computer Science, Year :2018-2022 }, 
               ],
              
- Experience : [' SWE Intern @ STMicroelectronics', 
+ Experience : ['SDE 2 @ Oracle',
+               'SWE Intern @ STMicroelectronics', 
                'ST Intern @ Oracle',
                'Graphic Designer @ PredictablyBeautiful'
                'Graphic Designer @ Infinite YOUth', 
@@ -34,7 +35,7 @@ const Kanta = {
  ```              
  --> 
 
-### :computer: Languages that I speak
+### :computer: Languages and Tools that I know
 * Front-end development :  React, Bootstrap, Figma, Canva, Wordpress, HTML, CS, Javascript, Flutter
 * Backend development : Flask, Django, Firebase , MySQL, C++, C, Java, Python, REST
 
