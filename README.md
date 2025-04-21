@@ -1,50 +1,152 @@
+# <img width="160" height="96" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamw5eDdzOTdkZXZyZnp0b2MwZWcwNHNxbWM4N3pub2lvZXNnYnd2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/omHPYZttAVAAw/giphy.gif" alt="totoro"/> Kanta's Enchanted Tech Forest
 
-<h3> < Hello world, I'm Kanta Garg > <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img  align='right' src="https://cdn.dribbble.com/users/5448869/screenshots/11964344/media/7c1a55db92d1d015c51ad7595a2b82ff.png?compress=1&resize=400x300" width="300px"> </h3>
+<div align="center">
   
-Namaste, I am Kanta ~
+  ![Magical Forest](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FweTE0cHp2eG9tZnMyczljYTJwamw0ZWUyY3VmajYxOXc4ZnJtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHQ5BsgBIBIGI/giphy.gif)
 
-I build, optimize, and scale AI/ML solutions that turn futuristic ideas into real-world magic! As a Solutions Architect at Amazon, I design cutting-edge AI/ML architectures, lead Generative AI proof-of-concepts, and help businesses harness the power of AI—all while making it look effortless (okay, maybe with a lot of coffee).
+  <p><em>"In this world, there's no such thing as 'useless' code. Even the tiniest functions have a purpose." — The Kanta Version of Totoro</em></p>
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=91B493&height=100&section=header" width="100%"/>
 
-Before Amazon, I engineered AI-powered cloud solutions at Oracle, optimized distributed data pipelines, and even dived into IoT and BLE tech at STMicroelectronics. Basically, if it involves AI, cloud, automation, or solving complex problems, I’m all in!
+## 🌱 The Wandering Spirit Coder
 
-Beyond the tech world, I’m a passionate Women in STEM advocate, founder of the Women in AI/ML Nashville Chapter, and love mentoring, guest lecturing, and making AI accessible to everyone. Whether it’s presenting at AWS re:Invent or publishing blogs, I’m always looking for ways to empower, inspire, and innovate.
+Namaste! I'm Kanta, a curious spirit like Chihiro, discovering magical realms through code. Just as Howl crafts his moving castle from seemingly impossible parts, I architect AI solutions that transform wild ideas into tangible reality.
 
-Let’s connect and talk AI, cloud, or how we can change the world—one algorithm at a time!
+- 🍄 **Current Adventure**: Solutions Architect @ Amazon, crafting Generative AI wonders
+- 🌊 **Previous Voyages**: Software Developer II @ IceBattery® and Oracle
+- 🌟 **Spirit Guide for**: Women in STEM, making the coding realm accessible to all wanderers
+- 🌿 **Founded**: Women in AI/ML Nashville Chapter, a sanctuary for fellow tech explorers
+- 🦉 **Knowledge Sharing**: Guest Speaker at Vanderbilt University & Presenter at AWS re:Invent
+- 🐱 **My Catbus**: Building bridges between human needs and technical solutions
+- 📝 **Send a Paper Plane**: parathasarathijugnu@gmail.com
+
+## 💫 Magic Spells & Incantations
+
+```
+"Once you've met technology, you never really forget it. It just takes a while for it to come back to you." - Kanta's Spirited Code
+```
+
+<details>
+<summary>🧙‍♀️ My Magical Grimoire (Tech Stack)</summary>
+<br>
+
+### 🌈 Full-Stack Enchantments
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### 🔮 Generative AI Sorcery
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-3178C6?style=flat-square&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Large Language Models](https://img.shields.io/badge/-LLMs-7F52FF?style=flat-square&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/-Vector_DBs-8B4513?style=flat-square&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/-Amazon_Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+### 🏯 Cloud Architecture
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/-Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
+
+### 🎨 UX Design Artistry
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
+![Sketch](https://img.shields.io/badge/-Sketch-F7B500?style=flat-square&logo=sketch&logoColor=black)
+![User Research](https://img.shields.io/badge/-User_Research-83B692?style=flat-square&logoColor=white)
+![Wireframing](https://img.shields.io/badge/-Wireframing-738276?style=flat-square&logoColor=white)
+![Prototyping](https://img.shields.io/badge/-Prototyping-A5C882?style=flat-square&logoColor=white)
+![Design Systems](https://img.shields.io/badge/-Design_Systems-D3E4CD?style=flat-square&logoColor=black)
+
+### 🌊 Programming Rivers
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+</details>
+
+## 🍃 Journey Through The Magical Forest
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kantagarg17&theme=buefy&show_icons=true&bg_color=F3EED9&icon_color=738276&text_color=594F4F&title_color=91B493&border_color=91B493" alt="GitHub Stats" />
+</div>
+
+```mermaid
+journey
+  title Kanta's Spirited Away into Tech
+  section The Beginning
+    Banasthali Vidyapeeth (B.Tech): 5
+  section First Encounters
+    STMicroelectronics (Intern): 6
+    Oracle (SDE Intern): 6
+  section The Middle Journey
+    Oracle (SDE II): 7
+    IceBattery® (SDE II): 7
+  section Current Adventure
+    Amazon (Solutions Architect): 7
+```
+
+## 🌸 Achievements & Treasures Found
+
+<div style="background-color: #F3EED9; border-radius: 10px; padding: 15px; margin: 10px 0;">
+
+- 🏆 **AWS Certified Solutions Architect** – Like finding Laputa's crystal
+- 🔮 **Architecting with Google Compute Engine** – A magic spell learned from the cloud spirits
+- 🌟 **Xamarin Forms in Android and iOS** – Creating portals between different realms
+- 🏯 **Google Cloud Essentials** – Building castles in the digital sky
+- 🦉 **AWS re:Invent Presenter** – Sharing wisdom like Yubaba's sister Zeniba
+- 🎓 **Vanderbilt University Guest Lecturer** – Teaching young spirits about the tech forest
+- 🌈 **Pratibha Eaton Excellence Awards** – Acknowledged by the forest spirits
+- 🌱 **National Scholarship** – The wind brought this gift
+
+</div>
+
+## 🌿 Languages of Different Realms
+- 🇮🇳 Hindi (Like a forest spirit, native to the land)
+- 🇺🇸 English (Fluent as flowing water)
+- 🇫🇷 French (Like Howl visiting different doors)
+- 🇰🇷 Korean (Beginning to understand the whispers)
+
+## 🎋 "Only you can find your way through the forest of code." — The Kodama of DevOps
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kantagarg17&theme=flat&no-frame=true&row=1&column=7&margin-w=15&no-bg=true" alt="trophies" />
+  
+  ### ✨ Let's build something as magical as Howl's Moving Castle! ✨
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23739072.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kantagarg17)
+  [![Medium](https://img.shields.io/badge/Medium-%233A4D39.svg?style=for-the-badge&logoColor=white)](https://medium.com/@kantagarg17)
+  [![Email](https://img.shields.io/badge/Email-%235C8374.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parathasarathijugnu@gmail.com)
+  [![Phone](https://img.shields.io/badge/Call-%23739072.svg?style=for-the-badge&logo=phone&logoColor=white)](tel:+17186124304)
+
+![Howl's Garden](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzltemZiMWpxdW9yc3FvZnFqdDRiNXhxMGg3MzVhOGhua3lzYnl5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BlSqnORD9dDAA/giphy.gif)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=91B493&height=100&section=footer" width="100%"/>
 
 <!-- 
-##### A little more about me...  
-
-```javascript
-const Kanta = {
-  Pronouns: "she" | "her",
-  Description : [Passionate, Feminist, 
-                 Bibliophile, Tech Enthusiast, 
-                 Socialist, Nature Lover,   
-                 and a lot more 
-                ],
-  Education : [ 
-               { Collge: Banasthali Vidyapith, Major : Computer Science, Year :2018-2022 }, 
-              ],
-             
- Experience : ['Solutions Architect @ Amazon',
-               'SDE 2 @ Oracle',
-               'SWE Intern @ STMicroelectronics', 
-               'ST Intern @ Oracle',
-               'Graphic Designer @ PredictablyBeautiful'
-               'Graphic Designer @ Infinite YOUth', 
-               'Graphic Designer - Team Lead @ Aayam' 
-              ] 
- }
- ```              
- --> 
-
-### :computer: Languages and Tools that I know
-* Front-end development :  React, Bootstrap, Figma, Canva, Wordpress, HTML, CS, Javascript, Flutter
-* Backend development : Flask, Django, Firebase , MySQL, C++, C, Java, Python, REST
-
-
-<!-- <img src = 'https://image.flaticon.com/icons/svg/1822/1822899.svg' height='30'/> <img src = 'https://banner2.cleanpng.com/20180604/pol/kisspng-react-javascript-angularjs-ionic-atom-5b154be6709500.6532453515281223424611.jpg' height='30'/> <img src = 'https://image.flaticon.com/icons/svg/919/919827.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png' width='30'/><img src = 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.RQ8rlvfppN1r1CA-mufW0QHaHa%26pid%3DApi&f=1' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> --> 
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=kantagarg17&theme=radical&show_icons=true" alt="Kanta's Github Stats" />
-</p>
+Studio Ghibli Aesthetic Elements:
+1. Color palette inspired by nature scenes (soft greens, earthy tones)
+2. Wave patterns like water and wind elements common in films
+3. Original quotes inspired by Ghibli but tailored to tech
+4. Tech skills organized like magical abilities and spells
+5. Journey visualization representing character growth
+6. Nature-themed section dividers and rounded elements
+7. Earthy badge colors that evoke forest settings
+-->
