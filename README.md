@@ -83,7 +83,7 @@ Namaste! I'm Kanta, a curious spirit like Chihiro, discovering magical realms th
 ## 🍃 Journey Through The Magical Forest
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kantagarg17&theme=buefy&show_icons=true&bg_color=F3EED9&icon_color=738276&text_color=594F4F&title_color=91B493&border_color=91B493" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=kantagarg17&theme=buefy&show_icons=true&bg_color=F3EED9&icon_color=738276&text_color=594F4F&title_color=91B493&border_color=91B493" alt="GitHub Stats" /> -->
 </div>
 
 ```mermaid
@@ -125,7 +125,7 @@ journey
 ## 🎋 "Only you can find your way through the forest of code." — The Kodama of DevOps
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kantagarg17&theme=flat&no-frame=true&row=1&column=7&margin-w=15&no-bg=true" alt="trophies" />
+ <!-- <img src="https://github-profile-trophy.vercel.app/?username=kantagarg17&theme=flat&no-frame=true&row=1&column=7&margin-w=15&no-bg=true" alt="trophies" /> -->
   
   ### ✨ Let's build something as magical as Howl's Moving Castle! ✨
   
