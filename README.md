@@ -162,4 +162,6 @@ journey
 
 </div>
 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzltemZiMWpxdW9yc3FvZnFqdDRiNXhxMGg3MzVhOGhua3lzYnl5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BlSqnORD9dDAA/giphy.gif" width="680" alt="Howl's garden"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F3EED9,20:8FC1D4,60:91B493,100:3A4D39&height=100&section=footer&" width="100%"/>
