@@ -1,4 +1,4 @@
-# <img width="160" height="96" src="https://i.pinimg.com/originals/07/f4/4f/07f44fd9fbfc94597d11c0aa34994281.gif" alt="totoro"/> Kanta's Enchanted Tech Forest
+# <img width="160" height="96" src="[https://i.pinimg.com/originals/07/f4/4f/07f44fd9fbfc94597d11c0aa34994281.gif](https://tenor.com/view/totoro-hoola-hoop-gif-3702598482567504590)" alt="totoro"/> Kanta's Enchanted Tech Forest
 
 <div align="center">
   
