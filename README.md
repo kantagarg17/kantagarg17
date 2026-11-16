@@ -1,5 +1,4 @@
-
-# <img width="160" height="96" src="https://i.pinimg.com/originals/61/0f/2f/610f2f511932bf9476b62147dfdae604.gif" alt="totoro"/> Kanta's Enchanted Tech Forest
+# <img width="160" height="96" src="https://i.pinimg.com/736x/58/2e/9a/582e9a5475b0294f5c1c5608f00b75ec.jpg" alt="totoro"/> Kanta's Enchanted Tech Forest
  
   ![Magical Forest](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FweTE0cHp2eG9tZnMyczljYTJwamw0ZWUyY3VmajYxOXc4ZnJtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHQ5BsgBIBIGI/giphy.gif)
 
