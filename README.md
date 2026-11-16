@@ -2,7 +2,7 @@
      │   Kanta's Enchanted Tech Forest · a Studio Ghibli story  │
      ╰──────────────────────────────────────────────────────────╯ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A4D39,40:91B493,80:8FC1D4,100:F3EED9&height=220&section=header&text=Kanta's%20Enchanted%20Tech%20Forest&fontSize=42&fontColor=F3EED9&fontAlignY=35&desc=Solutions%20Architect%20%40%20Amazon%20%E2%9C%A6%20Generative%20AI%20%E2%9C%A6%20Women%20in%20Tech&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A4D39,40:91B493,80:8FC1D4,100:F3EED9&height=220&section=header&" width="100%"/>
 
 <div align="center">
 
