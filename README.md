@@ -1,7 +1,5 @@
-<div class="tenor-gif-embed" data-postid="3702598482567504590" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/totoro-hoola-hoop-gif-3702598482567504590">Totoro Hoola Hoop GIF</a>from <a href="https://tenor.com/search/totoro-gifs">Totoro GIFs</a></div> 
-<div align="center">
 
-# <img width="160" height="96" src="https://tenor.com/view/totoro-hoola-hoop-gif-3702598482567504590" alt="totoro"/> Kanta's Enchanted Tech Forest
+# <img width="160" height="96" src="https://i.pinimg.com/originals/61/0f/2f/610f2f511932bf9476b62147dfdae604.gif" alt="totoro"/> Kanta's Enchanted Tech Forest
  
   ![Magical Forest](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FweTE0cHp2eG9tZnMyczljYTJwamw0ZWUyY3VmajYxOXc4ZnJtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHQ5BsgBIBIGI/giphy.gif)
 
