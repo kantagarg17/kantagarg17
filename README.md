@@ -10,8 +10,6 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FweTE0cHp2eG9tZnMyczljYTJwamw0ZWUyY3VmajYxOXc4ZnJtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHQ5BsgBIBIGI/giphy.gif" width="680" alt="magical forest"/>
 
-<img src="https://komarev.com/ghpvc/?username=kantagarg17&style=for-the-badge&color=91B493&label=FOREST+WANDERERS"/>
-
 </div>
 
 <br/>
