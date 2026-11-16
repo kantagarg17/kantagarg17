@@ -6,8 +6,8 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/tsaWeKWdM85ahDy0D8/giphy.gif" width="150" alt="totoro logo"/> 
-<img src="https://readme-typing-svg.demolab.com/font=Georgia&size=20&duration=3600&pause=900&color=91B493&center=true&vCenter=true&width=720&lines=A+curious+spirit+like+Chihiro%2C+wandering+magical+realms+of+code;Architecting+AI+castles+from+seemingly+impossible+parts;Even+the+tiniest+function+has+a+purpose+%E2%80%94+Totoro%2C+probably;Once+you've+met+technology%2C+you+never+really+forget+it" alt="typing intro"/>
+<img src="https://media.giphy.com/media/tsaWeKWdM85ahDy0D8/giphy.gif" width="170" alt="totoro logo"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=20&duration=3600&pause=900&color=91B493&center=true&vCenter=true&width=720&lines=A+curious+spirit+like+Chihiro%2C+wandering+magical+realms+of+code;Architecting+AI+castles+from+seemingly+impossible+parts;Even+the+tiniest+function+has+a+purpose+%E2%80%94+Totoro%2C+probably;Once+you've+met+technology%2C+you+never+really+forget+it" alt="typing intro"/>
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FweTE0cHp2eG9tZnMyczljYTJwamw0ZWUyY3VmajYxOXc4ZnJtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHQ5BsgBIBIGI/giphy.gif" width="680" alt="magical forest"/>
 
