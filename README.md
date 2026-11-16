@@ -2,7 +2,7 @@
      │   Kanta's Enchanted Tech Forest · a Studio Ghibli story  │
      ╰──────────────────────────────────────────────────────────╯ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A4D39,40:91B493,80:8FC1D4,100:F3EED9&height=120&section=header&" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A4D39,40:91B493,80:8FC1D4,100:F3EED9&height=150&section=header&" width="100%"/>
 
 <div align="center">
 
@@ -162,4 +162,4 @@ journey
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F3EED9,20:8FC1D4,60:91B493,100:3A4D39&height=160&section=footer&text=Mata%20ne!%20%F0%9F%8D%83&fontSize=28&fontColor=F3EED9&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F3EED9,20:8FC1D4,60:91B493,100:3A4D39&height=100&section=footer&" width="100%"/>
