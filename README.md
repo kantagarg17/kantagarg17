@@ -35,10 +35,6 @@ I turn wild ideas into systems that actually ship.
 
 <div align="center">
 
-<a href="https://github.com/g-maanasi/connectivity-aware-3d-vessel-segmentation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=g-maanasi&repo=connectivity-aware-3d-vessel-segmentation&bg_color=00000000&title_color=91B493&text_color=8A9A8B&icon_color=E8A87C&border_color=91B493&border_radius=12" alt="vessel segmentation project"/>
-</a>
-
 **🩸 Connectivity-aware 3D vessel segmentation** — teaching a 3D U-Net not to leave blood vessels in
 disconnected pieces (Dice + clDice loss, MONAI/PyTorch), with an interactive viewer for slices, error
 maps, metrics, and 3D vessel trees · *Cornell Tech, CS5787 Deep Learning*
