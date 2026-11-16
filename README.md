@@ -2,7 +2,9 @@
      │   Kanta's Enchanted Tech Forest · a Studio Ghibli story  │
      ╰──────────────────────────────────────────────────────────╯ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A4D39,40:91B493,80:8FC1D4,100:F3EED9&height=220&section=header&text=Kanta's%20Enchanted%20Tech%20Forest&fontSize=42&fontColor=F3EED9&fontAlignY=35&desc=Solutions%20Architect%20%40%20Amazon%20%E2%9C%A6%20Generative%20AI%20%E2%9C%A6%20Women%20in%20Tech&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
+<!-- hand-painted animated scene: twinkling stars, drifting clouds, fireflies,
+     the great camphor tree & Totoro — lives in ./assets/ghibli-header.svg -->
+<img src="./assets/ghibli-header.svg" width="100%" alt="Kanta's Enchanted Tech Forest — animated Ghibli scene"/>
 
 <div align="center">
 
@@ -175,4 +177,5 @@ journey
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F3EED9,20:8FC1D4,60:91B493,100:3A4D39&height=160&section=footer&text=Mata%20ne!%20%F0%9F%8D%83&fontSize=28&fontColor=F3EED9&fontAlignY=70" width="100%"/>
+<!-- dawn hillside farewell with swaying kodama — ./assets/ghibli-footer.svg -->
+<img src="./assets/ghibli-footer.svg" width="100%" alt="Mata ne — dawn hillside with kodama"/>
