@@ -128,9 +128,6 @@ journey
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kantagarg17&show_icons=true&bg_color=00000000&title_color=91B493&icon_color=E8A87C&text_color=8A9A8B&border_color=91B493&border_radius=12&hide_title=false" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kantagarg17&layout=compact&bg_color=00000000&title_color=91B493&text_color=8A9A8B&border_color=91B493&border_radius=12&langs_count=8" alt="top languages"/>
-
 <img src="https://streak-stats.demolab.com?user=kantagarg17&background=00000000&border=91B493&ring=E8A87C&fire=E8A87C&currStreakLabel=91B493&sideLabels=91B493&currStreakNum=8A9A8B&sideNums=8A9A8B&dates=8A9A8B&border_radius=12" alt="streak" height="165"/>
 
 </div>
