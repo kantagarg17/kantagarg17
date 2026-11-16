@@ -2,16 +2,13 @@
      │   Kanta's Enchanted Tech Forest · a Studio Ghibli story  │
      ╰──────────────────────────────────────────────────────────╯ -->
 
-<!-- hand-painted animated scene: twinkling stars, drifting clouds, fireflies,
-     the great camphor tree & Totoro — lives in ./assets/ghibli-header.svg -->
-<img src="./assets/ghibli-header.svg" width="100%" alt="Kanta's Enchanted Tech Forest — animated Ghibli scene"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A4D39,40:91B493,80:8FC1D4,100:F3EED9&height=220&section=header&text=Kanta's%20Enchanted%20Tech%20Forest&fontSize=42&fontColor=F3EED9&fontAlignY=35&desc=Solutions%20Architect%20%40%20Amazon%20%E2%9C%A6%20Generative%20AI%20%E2%9C%A6%20Women%20in%20Tech&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-<!-- transparent Totoro: floats on the page like a logo, no backdrop box -->
-<img src="https://media.giphy.com/media/tsaWeKWdM85ahDy0D8/giphy.gif" width="170" alt="totoro logo"/>
-
 <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=20&duration=3600&pause=900&color=91B493&center=true&vCenter=true&width=720&lines=A+curious+spirit+like+Chihiro%2C+wandering+magical+realms+of+code;Architecting+AI+castles+from+seemingly+impossible+parts;Even+the+tiniest+function+has+a+purpose+%E2%80%94+Totoro%2C+probably;Once+you've+met+technology%2C+you+never+really+forget+it" alt="typing intro"/>
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FweTE0cHp2eG9tZnMyczljYTJwamw0ZWUyY3VmajYxOXc4ZnJtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHQ5BsgBIBIGI/giphy.gif" width="680" alt="magical forest"/>
 
 <img src="https://komarev.com/ghpvc/?username=kantagarg17&style=for-the-badge&color=91B493&label=FOREST+WANDERERS"/>
 
@@ -162,10 +159,7 @@ journey
 
 <div align="center">
 
-<!-- soot sprites scurrying across the footer (transparent) -->
-<img src="https://media.giphy.com/media/KbS9Y51reW6Nd1QyIf/giphy.gif" width="70" alt="soot sprite"/>
-<img src="https://media.giphy.com/media/KbS9Y51reW6Nd1QyIf/giphy.gif" width="55" alt="soot sprite"/>
-<img src="https://media.giphy.com/media/KbS9Y51reW6Nd1QyIf/giphy.gif" width="40" alt="soot sprite"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzltemZiMWpxdW9yc3FvZnFqdDRiNXhxMGg3MzVhOGhua3lzYnl5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BlSqnORD9dDAA/giphy.gif" width="680" alt="Howl's garden"/>
 
 ### ✨ Let's build something as magical as Howl's Moving Castle ✨
 
@@ -177,5 +171,4 @@ journey
 
 </div>
 
-<!-- dawn hillside farewell with swaying kodama — ./assets/ghibli-footer.svg -->
-<img src="./assets/ghibli-footer.svg" width="100%" alt="Mata ne — dawn hillside with kodama"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F3EED9,20:8FC1D4,60:91B493,100:3A4D39&height=160&section=footer&text=Mata%20ne!%20%F0%9F%8D%83&fontSize=28&fontColor=F3EED9&fontAlignY=70" width="100%"/>
