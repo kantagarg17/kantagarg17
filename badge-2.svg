@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 66" role="img" aria-label="creative coding">
+    <rect x="3" y="4" width="294" height="57" rx="27" fill="#ffe3e6" stroke="#b06f83" stroke-width="2" stroke-dasharray="6 5"/>
+    <circle cx="34" cy="33" r="9" fill="#fffaf2" stroke="#b06f83" stroke-width="2"/>
+    <path d="M27 33 Q34 21 41 33 Q34 45 27 33" fill="#f8cf91"/>
+    <text x="159.0" y="40" text-anchor="middle" font-family="Comic Neue,Arial,sans-serif" font-size="27" font-weight="bold" fill="#59483f">creative coding</text>
+    </svg>
