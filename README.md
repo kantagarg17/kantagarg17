@@ -39,7 +39,7 @@ hi! i'm **kanta**, a solutions architect who likes making technology feel a litt
 
 ## 🧺 little things i'm growing
 
-<img src="currently-blooming.gif" width="490" alt="Animated hand-lettered note: planting ideas, one line at a time" />
+<img src="currently-blooming.gif" width="100" alt="Animated hand-lettered note: planting ideas, one line at a time" />
 
 | 🌷 little project | 💭 what i'm exploring |
 | :-- | :-- |
