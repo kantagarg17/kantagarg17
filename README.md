@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hello-banner.png" width="100%" alt="Kanta's hand-drawn pastel coding garden with a little bunny, flowers, books and clouds" />
+<img src="hello-banner.png" width="100%" alt="Kanta's hand-drawn pastel coding garden with a little bunny, flowers, books and clouds" />
 
 <br>
 
@@ -8,13 +8,13 @@
 
 *cloud architecture · AI/ML · creative coding · little ideas with big hearts*
 
-<img src="assets/badge-1.svg" width="168" alt="cloud and AI" />
-<img src="assets/badge-2.svg" width="168" alt="creative coding" />
-<img src="assets/badge-3.svg" width="210" alt="human-centered design" />
+<img src="badge-1.svg" width="168" alt="cloud and AI" />
+<img src="badge-2.svg" width="168" alt="creative coding" />
+<img src="badge-3.svg" width="210" alt="human-centered design" />
 
 </div>
 
-<img src="assets/flower-divider.svg" width="100%" alt="A line of hand-drawn pastel flowers" />
+<img src="flower-divider.svg" width="100%" alt="A line of hand-drawn pastel flowers" />
 
 ## 🌼 a little about me
 
@@ -31,15 +31,15 @@ hi! i'm **kanta**, a solutions architect who likes making technology feel a litt
 
 </td><td width="33%" align="center" valign="middle">
 
-<img src="assets/bunny-coding.gif" width="255" alt="A little hand-drawn bunny happily coding at a cozy desk; animated GIF" />
+<img src="bunny-coding.gif" width="255" alt="A little hand-drawn bunny happily coding at a cozy desk; animated GIF" />
 
 </td></tr></table>
 
-<img src="assets/flower-divider.svg" width="100%" alt="Pastel flowers divider" />
+<img src="flower-divider.svg" width="100%" alt="Pastel flowers divider" />
 
 ## 🧺 little things i'm growing
 
-<img src="assets/currently-blooming.gif" width="490" alt="Animated hand-lettered note: planting ideas, one line at a time" />
+<img src="currently-blooming.gif" width="490" alt="Animated hand-lettered note: planting ideas, one line at a time" />
 
 | 🌷 little project | 💭 what i'm exploring |
 | :-- | :-- |
@@ -49,14 +49,14 @@ hi! i'm **kanta**, a solutions architect who likes making technology feel a litt
 
 > *Not every little seed is a finished project yet, and that's okay.* 🌱
 
-<img src="assets/flower-divider.svg" width="100%" alt="Pastel flowers divider" />
+<img src="flower-divider.svg" width="100%" alt="Pastel flowers divider" />
 
 ## 🖍️ what's in my pencil case?
 
 <div align="center">
 
-<img src="assets/badge-1.svg" width="174" alt="Cloud and AI" />
-<img src="assets/badge-4.svg" width="174" alt="Little experiments" />
+<img src="badge-1.svg" width="174" alt="Cloud and AI" />
+<img src="badge-4.svg" width="174" alt="Little experiments" />
 
 </div>
 
@@ -64,7 +64,7 @@ hi! i'm **kanta**, a solutions architect who likes making technology feel a litt
 
 **things i'm always learning:** making better prototypes · accessible interfaces · playful interactions · explaining complicated topics simply
 
-<img src="assets/flower-divider.svg" width="100%" alt="Pastel flowers divider" />
+<img src="flower-divider.svg" width="100%" alt="Pastel flowers divider" />
 
 ## 🧩 tiny coding garden: solve a puzzle!
 
@@ -88,7 +88,7 @@ print(flowers[-1] * 2)
 
 </details>
 
-<img src="assets/flower-divider.svg" width="100%" alt="Pastel flowers divider" />
+<img src="flower-divider.svg" width="100%" alt="Pastel flowers divider" />
 
 ## 💌 send a little hello
 
@@ -102,4 +102,4 @@ if you love AI, cloud, thoughtful design or tiny rabbits, we're probably going t
 
 </div>
 
-<img src="assets/flower-divider.svg" width="100%" alt="Pastel flowers divider" />
+<img src="flower-divider.svg" width="100%" alt="Pastel flowers divider" />
